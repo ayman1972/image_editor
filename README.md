@@ -1,9 +1,9 @@
 # Image Editor
-here you resize and convert your images. conversion from jpg to png and vice versa is available. images can be resized to any using our image editor.
+here you can resize and convert your images. conversion from jpg to png and vice versa is available. images can be resized to any using our image editor.
 
 ## Team members
-1. Abu Ayman [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Abu Ayman [https://github.com/ayman1972]
+2. Divyant M [https://github.com/Divyant07]
 
 ## Team Id
 Python / 152
@@ -16,10 +16,16 @@ Python / 152
 2. Step 2
 
 ## Libraries used
-Library Name - Version
+gettext -
+PIL -
+tkinter -
+               - Version
 
 ## How to configure
-Instructions for setting up project
+->clone the project
+->open in VS code
+->run the program
 
 ## How to Run
-Instructions for running
+open terminal
+run python coco_project.py
