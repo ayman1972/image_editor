@@ -1,5 +1,5 @@
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Image Editor
+here you resize and convert your images. conversion from jpg to png and vice versa is available. images can be resized to any using our image editor.
 
 ## Team members
 1. Abu Ayman [Embed personal github URL]
