@@ -27,5 +27,5 @@ tkinter -
 ->run the program
 
 ## How to Run
-open terminal
+open terminal >> 
 run python coco_project.py
