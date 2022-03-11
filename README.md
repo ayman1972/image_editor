@@ -12,14 +12,15 @@ Python / 152
 [https://www.loom.com/share/912eb09f5df04065aec3bbe1b143d3f4?sharedAppSource=personal_library]
 
 ## How it Works ?
-1. Step 1
-2. Step 2
+1.run the program
+2.choose an operation
+3.select your image
+4.edited image is saved in root folder
 
 ## Libraries used
 gettext -
 PIL -
 tkinter -
-               - Version
 
 ## How to configure
 ->clone the project
