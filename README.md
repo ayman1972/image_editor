@@ -19,7 +19,7 @@ Python / 152
 
 ## Libraries used
 gettext -
-PIL -
+PIL - 9.0.1
 tkinter -
 
 ## How to configure
